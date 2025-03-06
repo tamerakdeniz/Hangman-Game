@@ -14,7 +14,7 @@ A classic word guessing game implemented in Python where players try to guess a 
 
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/tamerakdeniz/Hangman-Game
    ```
 2. Navigate to the project directory:
    ```sh
