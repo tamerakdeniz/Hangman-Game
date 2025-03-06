@@ -10,6 +10,21 @@ A classic word guessing game implemented in Python where players try to guess a 
 - Input validation and duplicate guess detection
 - Clear game progress display
 
+## 🛠️ Installation
+
+1. Clone the repository:
+   ```sh
+   git clone <repository-url>
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd Hangman-Game
+   ```
+3. Run the game:
+   ```sh
+   python main.py
+   ```
+
 ## 🎯 How to Play
 
 1. Run the game by executing `main.py`
